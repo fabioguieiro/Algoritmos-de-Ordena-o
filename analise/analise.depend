@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1530810512 source:c:\users\guieiro\desktop\trabalho\analise\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1530811299 source:c:\users\guieiro\desktop\trabalho\analise\funcoes.c
+	"funcoes.h"
+
+1530811299 c:\users\guieiro\desktop\trabalho\analise\funcoes.h
+
+1531406329 source:c:\users\fabio\desktop\tp3 paraisópolis\analise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"funcoes.h"
+
+1531406329 c:\users\fabio\desktop\tp3 paraisópolis\analise\funcoes.h
+
+1531406329 source:c:\users\fabio\desktop\tp3 paraisópolis\analise\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funcoes.h"
+
